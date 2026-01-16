@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm plataro! 👋
+
+I'm a student interested in **Digital Art** and **Game Development**.
+
+### My Skills:
+- **Art:** 2D Illustration, Character Design
+- **Code:** Learning C# and Unity
+
+---
+Check out my portfolio: [ArtStation](https://www.artstation.com/plataro)
 
 <!--
 **plataro/plataro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
